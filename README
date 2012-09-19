@@ -1,0 +1,5 @@
+This is a simple application where I use in built sqlite module in python to store a set of words and then given a word as input try to get all the other anagrams of that word.
+
+The various folders try* signify certain changes I made to the main code.
+
+The file merge.py is used to merge all the *.txt files to produce one file containing the list of all the words.

@@ -1,0 +1,7 @@
+import time
+import itertools as tools
+st=time.time()
+e=[''.join(r) for r in tools.permutations('conference')]
+elapsed=time.time()-st
+
+print elapsed
